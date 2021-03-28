@@ -36,7 +36,7 @@
     2.  [开源开关电源项目](https://github.com/Staok/PowerBar) （[【开源电源】巧克力板](https://zhuanlan.zhihu.com/p/357497672)）
     3.  [开源 BLDC FOC 项目](https://github.com/Staok/iBLDC)（更新会超级慢）
     4.  [硬件保护项和措施](https://github.com/Staok/protection-circuits)
--   硬件测试的指标条目、每个项目的测试步骤和测试报告，规范化。[请戳这里](https://github.com/Staok/thoughs-about-hardware-design/blob/master/SCH%20%26%20PCB%20%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83%E5%92%8C%20AD%20%E7%9A%84%E4%BD%BF%E7%94%A8.md#15-%E7%A1%AC%E4%BB%B6%E6%B5%8B%E8%AF%95%E8%A7%84%E8%8C%83%E5%8C%96)。（这条目前对于我个人是空白的，以后慢慢积累补上）。
+-   硬件测试的指标条目、每个项目的测试步骤和测试报告，规范化。[请戳这里](https://github.com/Staok/thoughs-about-hardware-design/blob/master/SCH%20%26%20PCB%20%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83%E5%92%8C%20AD%20%E7%9A%84%E4%BD%BF%E7%94%A8.md#15-%E7%A1%AC%E4%BB%B6%E6%B5%8B%E8%AF%95%E8%A7%84%E8%8C%83%E5%8C%96)。
 
 ------
 
